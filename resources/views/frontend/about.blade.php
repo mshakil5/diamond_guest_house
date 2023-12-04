@@ -22,10 +22,10 @@
                 <div class="about-right ">
                     
                     <p><b>Diamonds guest house</b> is an elegant Victorian town house built in the 1890’s.    
-                        <br><br>
+                        <br>
 
                         The guest house presents itself as an ideal base for you to explore the historical city of York. 
-                        <br><br>
+                        <br>
                         We are situated on one of York’s famous roads, Bishopthorpe road. <br><br>
 
                         This captivating little corner of York is also referred to by those who know and love it as Bishy road. Bishopthorpe road (Bishy road) has excellent shops, restaurants and business, which provides top quality goods and services. <b>Diamonds guest house</b> is also situated in an area of York, which is close to all of York's attractions such as The Jorvik Viking Centre, National Railway Museum, York Minister, Knavesmire Racecourse, The Shambles, York Dungeons and many more. 
