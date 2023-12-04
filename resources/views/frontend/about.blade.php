@@ -21,14 +21,14 @@
             <div class="col-md-9 mx-auto text-justify">
                 <div class="about-right ">
                     
-                    <p>Diamonds guest house is an elegant Victorian town house built in the 1890’s.    
+                    <p><b>Diamonds guest house</b> is an elegant Victorian town house built in the 1890’s.    
                         <br><br>
 
                         The guest house presents itself as an ideal base for you to explore the historical city of York. 
                         <br><br>
                         We are situated on one of York’s famous roads, Bishopthorpe road. <br><br>
 
-                        This captivating little corner of York is also referred to by those who know and love it as Bishy road. Bishopthorpe road (Bishy road) has excellent shops, restaurants and business, which provides top quality goods and services. Diamonds Guest House is also situated in an area of York, which is close to all of York's attractions such as The Jorvik Viking Centre, National Railway Museum, York Minister, Knavesmire Racecourse, The Shambles, York Dungeons and many more. 
+                        This captivating little corner of York is also referred to by those who know and love it as Bishy road. Bishopthorpe road (Bishy road) has excellent shops, restaurants and business, which provides top quality goods and services. <b>Diamonds guest house</b> is also situated in an area of York, which is close to all of York's attractions such as The Jorvik Viking Centre, National Railway Museum, York Minister, Knavesmire Racecourse, The Shambles, York Dungeons and many more. 
                         <br><br>
 
                         The perfect destination for a luxurious escape to the beautiful city of York, for a business trip in style or just to have a comfortable and relaxing mini-break. Choose from our cosy double en-suite, triple en-suite, or for a little extra space you can choose a family deluxe en-suite. Whichever you choose, your stay will be made complete with a comfy bed and spacious en-suite. 
@@ -37,7 +37,7 @@
                         As a guest you'll also enjoy free Wi-Fi, flat screen TV and complimentary refreshments, so that you can rest easy during your stay.
                         <br><br>
                         
-                        Our team at Diamonds Guest House will be more than happy to guide you at any of the famous destinations in the historical City of York. We will also strive to maintain a courteous and friendly atmosphere during your stay.
+                        Our team at <b>Diamonds guest house</b> will be more than happy to guide you at any of the famous destinations in the historical City of York. We will also strive to maintain a courteous and friendly atmosphere during your stay.
                     </p>
                 </div>
             </div>
